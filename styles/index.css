@@ -1,3 +1,44 @@
-h1{
-    font-family ;
+.logo {
+    font-family:"Montserrat", sans-serif; ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 48px;
+    letter-spacing: -0.02cm;
+    color:#0A1B32 ;
+    margin: top 31px; ;
+    margin: left 119px;
+}
+
+.logo-dot{
+    color: #4F56F1;
+}
+.main-title {
+    max-width: 561px;
+    width: 100%;
+    margin-top: 180px;
+    margin-left: 239px;
+    font-family:"Ramaraja", serif ;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02cm;
+    color: #1B0A42;
+}
+
+.main-info {
+    max width: ;
+    width: ;
+    margin-top: 436.71px;
+    margin: left 239px; ;
+    font-family:"Roboto", serif ;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height:32px;
+    /* or 106% */
+    letter-spacing: 0.02cm;
+    color:#9A9A9A ;
 }
